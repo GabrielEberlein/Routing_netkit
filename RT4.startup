@@ -1,0 +1,4 @@
+ifconfig eth0 100.1.0.2 netmask 255.255.255.252 up
+ifconfig eth1 100.1.4.1 netmask 255.255.255.0 up
+ifconfig eth2 100.1.0.18 netmask 255.255.255.252 up
+ifconfig eth3 100.1.0.14 netmask 255.255.255.252 up
